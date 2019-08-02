@@ -1,2 +1,9 @@
-# visual-studio-code
-Настройка редактора Visual Studio Code
+# Visual Studio Code
+## Настройка редактора Visual Studio Code
+
+[Главная](https://damir-art.github.io)<br />
+[Репозиторий](https://github.com/damir-art/visual-studio-code)
+
+Visual Studio Code - на данный момент, один из самых популярных редакторов для HTML-верстальщиков и программистов. Аналог Sublime Text и Atom.
+
+## Плагины
