@@ -13,7 +13,7 @@ Visual Studio Code - на данный момент, один из самых п
 ## Плагины
 **Live Server** - автообновление страниц браузера<br />
 **Project Manager** - удобная работа с workspace<br />
-**Beautify** - <br />
+**Beautify** - форматирование файлов<br />
 **Bracket Pair Colorizer** - делает код более удобочитаемым (подсветка скобок и т.д.)<br />
 **Prettier - Code formatter** - автоматическое форматирование кода (Beautify?)<br />
 **Javascript (ES6) Code Snippets** - сниппеты для ES6<br />
