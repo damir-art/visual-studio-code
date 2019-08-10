@@ -10,6 +10,7 @@ Visual Studio Code - на данный момент, один из самых п
 * Шестеренка (снизу, слева) > Settings: автосохранение, размер шрифта
 * Settings > User > Application > Telemetry: отключить
 * Settings > Keyboard Shortcuts - посмотреть горячие ключи
+* Settings > User Snippets - пользовательские сниппеты
 
 ## Плагины
 **Live Server** - автообновление страниц браузера<br />
@@ -33,6 +34,23 @@ Visual Studio Code - на данный момент, один из самых п
 **Russian Language Pack for Visual Studio Code** - русификация
 
 ## Создание сниппета
+* Settings > User Snippets > New Global Snippets File...
+* Вводим имя файла, жмём Enter
+
+    {
+        "document.ready": {           // название сниппета
+            "scope": "javascript",    // тип файла, в котором сработает сниппет
+            "prefix": "doc",          // сокращённое название сниппета
+            "body": [                 // код сниппета
+                "jQuery(document).ready(function($ $1) {", 
+                    "$0",
+                "}); $2 "
+            ],
+            "description": "Полностью загруженный документ" // описание сниппета
+        }
+    }
+
+// $число позиция курсора, перемещаемся по 'tab'
 
 ## Горячие клавиши
 `CTRL + P` - поиск по проекту<br />
