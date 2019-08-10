@@ -37,6 +37,8 @@ Visual Studio Code - на данный момент, один из самых п
 * Settings > User Snippets > New Global Snippets File...
 * Вводим имя файла, жмём Enter
 
+Код сниппета:
+
     {
         "document.ready": {           // название сниппета
             "scope": "javascript",    // тип файла, в котором сработает сниппет
