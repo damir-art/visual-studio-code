@@ -21,9 +21,12 @@ Visual Studio Code - на данный момент, один из самых п
 **Stylelint** - проверка правильности написания кода на CSS/SCSS/Sass/Less<br />
 **GieLens** - раширение для более удобной работы с гит<br />
 **Prettier - Code formatter** - автоматическое форматирование кода (Beautify?)<br />
-**Project Manager** - удобная работа с workspace
-**Javascript (ES6) Code Snippets** - сниппеты для ES6
-**npm** - удобная работа с npm
-**Debugger for Chrome** - дебаггер для отладки JS-кода от гугл хром
+**Project Manager** - удобная работа с workspace<br />
+**Javascript (ES6) Code Snippets** - сниппеты для ES6<br />
+**npm** - удобная работа с npm<br />
+**Debugger for Chrome** - дебаггер для отладки JS-кода от гугл хром<br />
+**Russian Language Pack for Visual Studio Code** - русификация
 
-https://habr.com/ru/company/ruvds/blog/460801/ - 27 плагинов
+### Интересные ссылки
+https://habr.com/ru/company/ruvds/blog/460801/ - 27 плагинов<br />
+https://www.youtube.com/watch?v=8qXIe7m8tLU&list=PLuY6eeDuleIMzp2sMA9NSj4UX_pI-jECS - миникурс
