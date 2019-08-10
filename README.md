@@ -9,11 +9,12 @@ Visual Studio Code - на данный момент, один из самых п
 ## Начальные настройки
 * Шестеренка (снизу, слева) > Settings: автосохранение, размер шрифта
 * Settings > User > Application > Telemetry: отключить
+* Settings > Keyboard Shortcuts - посмотреть горячие ключи
 
 ## Плагины
 **Live Server** - автообновление страниц браузера<br />
 **Project Manager** - удобная работа с workspace<br />
-**Beautify** - форматирование файлов<br />
+**Beautify** - форматирование файлов HTML, CSS, JavaScript, JSON, Sass (ctrl+shift+p, >beautify file)<br />
 **Bracket Pair Colorizer** - делает код более удобочитаемым (подсветка скобок и т.д.)<br />
 **Prettier - Code formatter** - автоматическое форматирование кода (Beautify?)<br />
 **Javascript (ES6) Code Snippets** - сниппеты для ES6<br />
@@ -30,6 +31,11 @@ Visual Studio Code - на данный момент, один из самых п
 **GieLens** - раширение для более удобной работы с гит<br />
 **Debugger for Chrome** - дебаггер для отладки JS-кода от гугл хром<br />
 **Russian Language Pack for Visual Studio Code** - русификация
+
+## Горячие клавиши
+`CTRL + P` - поиск по проекту<br />
+`CTRL + SHIFT + P` - поиск по командам<br />
+`ALT + SHIFT + F` - автоформатирование кода, встроенная функция VS Code
 
 ### Интересные ссылки
 https://habr.com/ru/company/ruvds/blog/460801/ - 27 плагинов<br />
