@@ -11,19 +11,23 @@ Visual Studio Code - на данный момент, один из самых п
 * Settings > User > Application > Telemetry: отключить
 
 ## Плагины
-**Bracket Pair Colorizer** - делает код более удобочитаемым (подсветка скобок и т.д.)<br />
 **Live Server** - автообновление страниц браузера<br />
-**Live Sass Compiler** - компиляция SCSS в CSS
+**Project Manager** - удобная работа с workspace<br />
+**Beautify** - <br />
+**Bracket Pair Colorizer** - делает код более удобочитаемым (подсветка скобок и т.д.)<br />
+**Prettier - Code formatter** - автоматическое форматирование кода (Beautify?)<br />
+**Javascript (ES6) Code Snippets** - сниппеты для ES6<br />
+**Sass** - подсветка синтаксиса<br />
+**Live Sass Compiler** - компиляция Sass/SCSS в CSS (автоматом устанавливает еще и Live Server)<br />
+**Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets** - сниппеты + Awesome<br />
+**Bootstrap v4 Snippets** - сниппеты<br />
 **Open in Browser** - открыть файл в браузере<br />
+**npm** - удобная работа с npm<br />
 **vscode-icons** - иконки в сайдбаре для ваших файлов<br />
 **Better Comments** - подсветка комментариев кода<br />
 **ESLint** - проверка правильности написания кода на JavaScript<br />
 **Stylelint** - проверка правильности написания кода на CSS/SCSS/Sass/Less<br />
 **GieLens** - раширение для более удобной работы с гит<br />
-**Prettier - Code formatter** - автоматическое форматирование кода (Beautify?)<br />
-**Project Manager** - удобная работа с workspace<br />
-**Javascript (ES6) Code Snippets** - сниппеты для ES6<br />
-**npm** - удобная работа с npm<br />
 **Debugger for Chrome** - дебаггер для отладки JS-кода от гугл хром<br />
 **Russian Language Pack for Visual Studio Code** - русификация
 
