@@ -14,14 +14,14 @@ Visual Studio Code - на данный момент, один из самых п
 ## Плагины
 **Live Server** - автообновление страниц браузера<br />
 **Project Manager** - удобная работа с workspace<br />
-**Beautify** - форматирование файлов HTML, CSS, JavaScript, JSON, Sass (ctrl+shift+p, >beautify file)<br />
+**Beautify** - форматирование файлов HTML, CSS, JavaScript, JSON, Sass (ctrl+shift+p (F1), >beautify file)<br />
 **Bracket Pair Colorizer** - делает код более удобочитаемым (подсветка скобок и т.д.)<br />
 **Prettier - Code formatter** - автоматическое форматирование кода (Beautify?)<br />
 **Javascript (ES6) Code Snippets** - сниппеты для ES6<br />
 **Sass** - подсветка синтаксиса<br />
 **Live Sass Compiler** - компиляция Sass/SCSS в CSS (автоматом устанавливает еще и Live Server)<br />
 **Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets** - сниппеты + Awesome<br />
-**Bootstrap v4 Snippets** - сниппеты<br />
+**Bootstrap v4 Snippets** - сниппеты и классы, ctrl + 'пробел' в любом свободном месте<br />
 **Open in Browser** - открыть файл в браузере<br />
 **npm** - удобная работа с npm<br />
 **vscode-icons** - иконки в сайдбаре для ваших файлов<br />
@@ -32,10 +32,15 @@ Visual Studio Code - на данный момент, один из самых п
 **Debugger for Chrome** - дебаггер для отладки JS-кода от гугл хром<br />
 **Russian Language Pack for Visual Studio Code** - русификация
 
+## Создание сниппета
+
 ## Горячие клавиши
 `CTRL + P` - поиск по проекту<br />
 `CTRL + SHIFT + P` - поиск по командам<br />
 `ALT + SHIFT + F` - автоформатирование кода, встроенная функция VS Code
+
+## Фишки
+Если скопировал код, где табуляция два пробела, то жмешь alt + shift + f (становится 4, если столько указано в настройках).
 
 ### Интересные ссылки
 https://habr.com/ru/company/ruvds/blog/460801/ - 27 плагинов<br />
