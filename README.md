@@ -63,4 +63,5 @@ Visual Studio Code - на данный момент, один из самых п
 
 ### Интересные ссылки
 https://habr.com/ru/company/ruvds/blog/460801/ - 27 плагинов<br />
-https://www.youtube.com/watch?v=8qXIe7m8tLU&list=PLuY6eeDuleIMzp2sMA9NSj4UX_pI-jECS - миникурс
+https://www.youtube.com/watch?v=8qXIe7m8tLU&list=PLuY6eeDuleIMzp2sMA9NSj4UX_pI-jECS - миникурс<br />
+https://code-is-poetry.ru/visual-studio-code.html
